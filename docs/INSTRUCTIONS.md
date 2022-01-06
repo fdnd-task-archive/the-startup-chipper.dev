@@ -8,7 +8,7 @@ Deze leertaak hoort bij sprint The Startup. Dit is een autonomous leertaak die j
 ## Briefing
 Chippr is een bedrijf dat bestaat uit young professionals die in samenwerking met studenten toffe projecten realiseert.
 
-Herontwerp en ontwikkel een proof of concept van de website van Chippr met HTML, CSS en JavaScript.
+Herontwerp en ontwikkel een proof of concept van de website chippr.dev met HTML, CSS en JavaScript.
 
 ## Doel van deze opdracht
 Je leert hoe je een presentatie website voor een startende onderneming (her)ontwerpt en maakt.
