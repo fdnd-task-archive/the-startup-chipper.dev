@@ -1,4 +1,4 @@
-# Redesign Coding the Curbs Website 
+# Redesign Chippr.dev
 
 ![Chippr](https://github.com/fdnd-task/the-startup-chipper.dev/blob/2f5ca5693b1c0d006cbbaa021ac7a6b31aa43180/docs/chippr.png)
 
